@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/Nc_AVk-eu01Zr1yIpu-ZZYqyf1NrFeQb-jjcISOO-Fc/https/i.gifer.com/45RQ.gif?width=374&height=414"/>
+  <img height="200" src="https://images-ext-1.discordapp.net/external/RjtNWoatVQfC4Iz-ozzPisa4qJ_28ftKOltfRzr_yww/https/www.gifcen.com/wp-content/uploads/2022/09/png-gif-8.gif?width=414&height=414"/>
 </div>
 
 ###
