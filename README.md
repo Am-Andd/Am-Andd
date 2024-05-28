@@ -42,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img height="200" src="https://i.pinimg.com/originals/f6/76/57/f67657d17886d720b18994c1accc33d1.gif"  />
 </div>
 
