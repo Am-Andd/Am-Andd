@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/1OJDEMQvavp2Rx2Zugs3bu-kI1Hl6fZjCVIJOlr2b5c/https/media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif"/>
+  <img height="200" src="https://images-ext-1.discordapp.net/external/Nc_AVk-eu01Zr1yIpu-ZZYqyf1NrFeQb-jjcISOO-Fc/https/i.gifer.com/45RQ.gif?width=374&height=414"/>
 </div>
 
 ###
