@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Am-Andd/Am-Andd/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Social media</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.redd.it/c0gpmshxqat81.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"  />
 </div>
 
 ###
