@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Software Engineering student<br>📚 Currently learning .py and .js<br>⚡ Also getting into design</p>
+<p align="left">✨ Software Engineering student<br>📚 Currently learning .py and .js<br>⚡ Also into graphic design</p>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/f6/76/57/f67657d17886d720b18994c1accc33d1.gif"  />
+  <img height="200" src="https://i.redd.it/c0gpmshxqat81.gif"  />
 </div>
 
 ###
