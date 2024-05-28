@@ -40,10 +40,9 @@
   </a>
 </div>
 
-###
 
 <div align="right">
-  <img height="200" src="https://i.redd.it/c0gpmshxqat81.gif"  />
+  <img height="200" src="https://i.gifer.com/45RQ.gif"  />
 </div>
 
 ###
