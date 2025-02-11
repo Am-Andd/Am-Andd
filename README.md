@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+![image](https://github.com/user-attachments/assets/10e4f23e-1919-4b89-ab63-642f51648fa5)<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Amanda, I'm a software engineer from Brazil, Goiás.</p>
+<p align="left">My name is Amanda, I'm a software engineer from Brazil.</p>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/RjtNWoatVQfC4Iz-ozzPisa4qJ_28ftKOltfRzr_yww/https/www.gifcen.com/wp-content/uploads/2022/09/png-gif-8.gif?width=414&height=414"/>
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683984262135912604%2F&psig=AOvVaw2JhW6PzImO-n2skmHvlSbT&ust=1739365763614000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCPjbzYu4sDFQAAAAAdAAAAABAE"/>
 </div>
 
 ###
