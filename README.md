@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/10e4f23e-1919-4b)89-ab63-642f51648fa5<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
