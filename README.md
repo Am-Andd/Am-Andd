@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.gifer.com/1uK8.gif"/>
+  <img height="200" src="https://media.tenor.com/Jojpr9QgMLoAAAAM/maxwell-maxwell-spin.gif"/>
 </div>
 
 ###
