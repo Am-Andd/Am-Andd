@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F683984262135912604%2F&psig=AOvVaw2JhW6PzImO-n2skmHvlSbT&ust=1739365763614000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCPjbzYu4sDFQAAAAAdAAAAABAE"/>
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1uK8&psig=AOvVaw31cR-NZovl2BeTg0XQYE71&ust=1739366030204000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjO9r3Zu4sDFQAAAAAdAAAAABAE"/>
 </div>
 
 ###
