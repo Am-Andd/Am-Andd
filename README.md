@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/10e4f23e-1919-4b89-ab63-642f51648fa5)<h1 align="left">Hey 👋</h1>
+![image](https://github.com/user-attachments/assets/10e4f23e-1919-4b)89-ab63-642f51648fa5<h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1uK8&psig=AOvVaw31cR-NZovl2BeTg0XQYE71&ust=1739366030204000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjO9r3Zu4sDFQAAAAAdAAAAABAE"/>
+  <img height="200" src="https://i.gifer.com/1uK8.gif"/>
 </div>
 
 ###
