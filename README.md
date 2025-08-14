@@ -1,20 +1,21 @@
-<h1 align="left">Hey :)</h1>
+<h1 align="left">Prazer, sou a Amanda! Seja bem-vindo ao meu GitHub :)</h1>
 
 ###
 
-<p align="left">My name is Amanda and I am a Software Engineer from Brazil.</p>
+<p align="left">Sou estudante de Engenharia de Software e apaixonada por tecnologia, desenvolvimento e gestão de projetos. Trabalho com diferentes tecnologias e metodologias ágeis para criar soluções eficientes e bem estruturadas.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Um pouco sobre mim</h2>
 
 ###
 
-<p align="left"></p>
+<p align="left">🪻 Desenvolvimento Back-end com Python e Django<br>🫧 Interesse por UI/UX e prototipação de interfaces<br>🌷 Gestão de projetos<br>🫐 Busca constante por aprendizado em tecnologia, design e inovação</p>
+
 
 ###
 
-<h2 align="left">I work with</h2>
+<h2 align="left">Trabalho com</h2>
 
 ###
 
@@ -24,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-    
+   
 </div>
 
 ##
