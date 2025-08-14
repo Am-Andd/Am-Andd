@@ -6,12 +6,22 @@
 
 ###
 
+<div align="center">
+  <a href="www.linkedin.com/in/amanda-martins-de-andrade" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8D5ACC&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:amanda.andrade.wrk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8D5ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Um pouco sobre mim</h2>
 
 ###
 
 <p align="left">🪻 Desenvolvimento Back-end com Python e Django<br>🫧 Interesse por UI/UX e prototipação de interfaces<br>🌷 Gestão de projetos<br>🫐 Busca constante por aprendizado em tecnologia, design e inovação</p>
-
 
 ###
 
