@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/amanda-martins-de-andrade" target="_blank">
+  <a href="https://linkedin.com/in/amanda-martins-de-andrade" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8D5ACC&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:amanda.andrade.wrk@gmail.com" target="_blank">
