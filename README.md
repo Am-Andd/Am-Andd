@@ -48,7 +48,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.postimg.cc/MpkFB5cp/toongithub.png"  />
 </div>
 
