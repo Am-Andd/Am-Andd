@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software e apaixonada por tecnologia, desenvolvimento e gestão de projetos. Trabalho com diferentes tecnologias e metodologias ágeis para criar soluções eficientes e bem estruturadas.</p>
+<p align="left">Sou estudante de Engenharia de Software, apaixonada por tecnologia, desenvolvimento e gestão de projetos. Trabalho com diferentes tecnologias e metodologias ágeis para criar soluções eficientes e bem estruturadas.</p>
 
 ###
 
